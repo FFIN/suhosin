@@ -1,10 +1,12 @@
 # suhosin-cookbook
 
-TODO: Enter the cookbook description here.
+Install suhosin extention to php
 
 ## Supported Platforms
 
-TODO: List your supported platforms.
+Supported OS' are Redhat CentOS Fedora only for this moment. 
+
+
 
 ## Attributes
 
