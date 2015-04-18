@@ -21,7 +21,7 @@
 include_recipe 'build-essential'
 
 remote_file "#{Chef::Config[:file_cache_path]}/suhosin-#{node['suhosin']['version']}.tar.gz" do
-  source "#{node['suhosin']['source']}"
+  source node['suhosin']['source']
   checksum node['suhosin']['checksum']
   mode '0644'
   only_if "which php"
