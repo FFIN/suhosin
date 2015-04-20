@@ -1,12 +1,11 @@
-# suhosin-cookbook
+# suhosin-cookbook [![Build Status](https://secure.travis-ci.org/[YOUR_GITHUB_USERNAME]/[YOUR_PROJECT_NAME].png)](http://travis-ci.org/[YOUR_GITHUB_USERNAME]/[YOUR_PROJECT_NAME])
 
-Install suhosin extention to php
+
+TODO: Enter the cookbook description here.
 
 ## Supported Platforms
 
-Supported OS' are Redhat CentOS Fedora only for this moment. 
-
-
+TODO: List your supported platforms.
 
 ## Attributes
 
