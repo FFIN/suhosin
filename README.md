@@ -1,4 +1,4 @@
-# suhosin-cookbook [![Build Status](https://secure.travis-ci.org/[YOUR_GITHUB_USERNAME]/[YOUR_PROJECT_NAME].png)](http://travis-ci.org/[YOUR_GITHUB_USERNAME]/[YOUR_PROJECT_NAME])
+# suhosin-cookbook [![Build Status](https://secure.travis-ci.org/FFIN/suhosin.png)](http://travis-ci.org/FFIN/suhosin)
 
 
 TODO: Enter the cookbook description here.
